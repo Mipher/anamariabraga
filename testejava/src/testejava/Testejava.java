@@ -15,7 +15,7 @@ public class Testejava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hello hell/n");
+        // TODO code application logic here
     }
     
 }
